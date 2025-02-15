@@ -5,8 +5,7 @@ import requests
 import pyttsx3
 import tempfile
 
-# OpenAI API Key
-OPENAI_API_KEY = "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"
+# OpenAI API Key"
 
 # Initialize text-to-speech engine
 tts_engine = pyttsx3.init()
